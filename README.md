@@ -34,7 +34,8 @@
   ```
   npm run dev
   ```
-
+### 关于 `AI问答`
+- src/comfig/api.js 将api key 改成自己的,或者换其他大模型平台url
   
 
   启动开发服务器后，Vite 会立刻在项目根目录生成 `.vite` 文件夹，并根据 `package.json` 里的依赖重新构建缓存。
